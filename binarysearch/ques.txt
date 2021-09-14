@@ -1,0 +1,43 @@
+// Binary Search Algorithm
+// Find the number of rotations in a circularly sorted array
+// Search an element in a circularly sorted array
+// Find the first or last occurrence of a given number in a sorted array
+// Count occurrences of a number in a sorted array with duplicates
+Find the smallest missing element from a sorted array
+Find floor and ceil of a number in a sorted integer array
+Search in a nearly sorted array in logarithmic time
+Find the number of 1’s in a sorted binary array
+Find the peak element in an array
+Find the missing term in a sequence in logarithmic time
+Find floor and ceil of a number in a sorted array (Recursive solution)
+Find the frequency of each element in a sorted array containing duplicates
+Find the square root of a number using a binary search
+Division of two numbers using binary search algorithm
+Find the odd occurring element in an array in logarithmic time
+Find pairs with difference `k` in an array | Constant Space Solution
+Find `k` closest elements to a given value in an array
+Binary Search in C++ STL and Java Collections
+Ternary Search vs Binary search
+Exponential search
+Unbounded Binary Search
+
+
+// hard poblems
+// Book Allocation Problem (GFG)
+// Aggressive cow (spoj)
+Prata and roti (spoj)
+// EKO (spoj)
+Google kickstart A Q-3 2020
+1482 Minimum Number of Days to Make m Bouquets
+1283 Find the Smallest Divisor Given a Threshold
+1231 Divide Chocolate
+1011 Capacity To Ship Packages In N Days
+875 Koko Eating Bananas
+Minimize Painter Partition Problem
+774 Max Distance to Gas Station
+410 Split Array Largest Sum
+
+
+// https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+// https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1#
+// https://www.geeksforgeeks.org/find-the-first-missing-number/

@@ -1,0 +1,117 @@
+Array And String  
+Long Pressed Name//
+Range Addition//
+Max range query
+Container With Most Water
+Squares of a sorted array
+Next Greater Element III
+Majority element
+Majority element 2
+Majority element general
+Max chunks to make sorted
+Max Chunks To Make Sorted II
+Product of Array Except Self
+Minimum Jump required with +i or -i allowed
+Max product of three numbers
+Maximum subarray
+K-CON
+Fast Exponentiation
+Best meeting point
+Segregate 0 and 1
+Segregate 0,1,2
+Sort Array By Parity
+Number of subarrays with bounded maximum
+Buddy nim
+Sieve of Eratosthenes
+Segmented sieve
+Maximum Swap
+Two sum
+Two Difference
+3 Sum
+3 Sum Closest
+3 Sum Smaller
+3 Sum With Multiplicity
+Boats to Save People
+Partition Labels
+Minimum no. of Platform
+Minimum domino rotation for equal row
+Consecutive number sum
+Rotate image
+Multiply strings
+Push dominoes
+Reverse vowels of a string
+Partition array into disjoint intervals
+Pascal triangle 2
+Max Consecutive Ones II
+Max consecutive ones 3
+Max distace to closest
+Smallest from k lists
+Max product subarray
+Valid pallindrome 2
+First missing positive
+Max sum of two non overlapping
+Global and local
+Design an Ordered Stream
+Add Strings
+Array Nesting
+Array Partition I
+Best Sightseeing Pair
+Candy Crush
+Circular Array Loop
+Complex Number Multiplication
+Count and Say
+Custom Sort String
+Delete Operation for Two Strings
+Encode and Decode Strings
+Find All Duplicates in an Array
+Find and Replace Pattern
+Word Subsets
+Find the Closest Palindrome
+Flip String to Monotone Increasing
+Game of Life
+Groups of Special-Equivalent Strings
+Integer to English Words
+Integer to Roman
+Interval List Intersections
+Longest Mountain in Array
+Maximum Average Subarray I
+Maximum Sum Circular Subarray
+Maximum Width Ramp
+Minimum Increment to Make Array Unique
+Minimum Number of K Consecutive Bit Flips
+Minimum Time Difference
+Most Profit Assigning Work
+Next Closest Time
+Non-decreasing Array
+Number of Matching Subsequences
+One Edit Distance
+Optimal Division
+Pairs of Songs With Total Durations Divisible by 60
+Parse Lisp Expression
+Partition Array into Disjoint Intervals
+Partition Array Into Three Parts With Equal Sum
+Permutation in String
+Pour Water
+Read N Characters Given Read4 II - Call multiple times
+Remove Duplicates from Sorted Array
+Remove Duplicates from Sorted Array II
+Repeated String Match
+Reveal Cards In Increasing Order
+RLE Iterator
+Roman to Integer
+Rotate Image
+Set Matrix Zeroes
+Shifting Letters
+Shortest Unsorted Continuous Subarray
+Shortest Word Distance III
+Sliding Window Median
+Split Array with Equal Sum
+Stamping The Sequence
+Subarray Product Less Than K
+Sum of Even Numbers After Queries
+Sum of Subsequence Widths
+Teemo Attacking
+Transform to Chessboard
+Transpose Matrix
+Valid Mountain Array
+Replace by X

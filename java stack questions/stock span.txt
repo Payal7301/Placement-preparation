@@ -1,0 +1,48 @@
+
+// Online IDE - Code Editor, Compiler, Interpreter
+// greatest element on left
+import java.io.*;
+import java.util.*;
+
+
+public class Main
+{
+    public static int[] stockspan(int[] arr){
+        int[] gelofcount=new int[arr.length];
+        Stack<Integer> st=new Stack<>();
+        gelofcount[0]=1;
+        st.push(arr[0]);
+        for(int i=1;i<arr.length;i++){
+            int count=1;
+            if(st.size()>0&& st.peek()<=arr[i]){
+                while(st.size()>0&&st.peek()<=arr[i]){
+                    st.pop();
+                    count++;
+                }
+            }
+               else if(st.size()==0 || st.peek()>arr[i]){
+                count+=1;
+            }
+                
+            
+             st.push(arr[i]);
+             gelofcount[i]=count;
+            }
+        return gelofcount;    
+        }
+        
+    
+    public static void main(String[] args) {
+    Scanner scn=new Scanner(System.in);
+    int n=scn.nextInt();
+    int[] arr=new int[n];
+    for(int i=0;i<arr.length;i++){
+        arr[i]=scn.nextInt();
+    }
+    int[] gel=stockspan(arr);
+    System.out.println(" ");
+    for(int i=0;i<gel.length;i++){
+        System.out.println(gel[i]);
+    }
+    }
+}
